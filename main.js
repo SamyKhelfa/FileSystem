@@ -1,0 +1,5 @@
+const cwd = require('./.episode_01')
+const parseExtension = require('./.episode_02')
+console.log(cwd())
+console.log(parseExtension('fichier.js'))
+console.log(fileName('Ch0pper.txt'))
